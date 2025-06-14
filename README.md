@@ -22,5 +22,5 @@ This research investigates whether it is possible to duplicate or intercept Ocul
 - Future research directions including ADB exploits and QSEE vulnerabilities
 
 ---
-May Khoury and Yasmin Irshied, "Copying Sessions in Oculus VR", 2024.
+May Khoury and Yasmin Irshied, "Copying Sessions in Oculus VR", 2025.
 Conducted under the supervision of Dr. Ori Shacham-Barr.
